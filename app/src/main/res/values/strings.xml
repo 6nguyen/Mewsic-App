@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Mewsic</string>
+    <string name="song_title">Nandemo Nai Ya</string>
+    <string name="song_artist">RADWIMPS</string>
 </resources>

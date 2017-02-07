@@ -19,7 +19,7 @@
         android:textSize="22dp"
         android:textStyle="bold"
         android:textColor="@color/text_color"
-        android:text="Nandemaiyo" />
+        android:text="@string/song_title" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -27,7 +27,7 @@
         android:textSize="18dp"
         android:textStyle="italic"
         android:textColor="@color/text_color"
-        android:text="RADWIMPS"
+        android:text="@string/song_artist"
         />
 
     <LinearLayout
