@@ -8,4 +8,7 @@
 
     <!-- Background color for entire app -->
     <color name="app_background_color">#000000</color>
+
+    <!-- color of Text -->
+    <color name="text_color">#FFFFFF</color>
 </resources>
