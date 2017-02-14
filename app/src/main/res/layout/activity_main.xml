@@ -61,6 +61,12 @@
             android:id="@+id/stop_Icon"
             app:srcCompat="@mipmap/stop_icon"/>
 
+        <SeekBar
+            android:id="@+id/volume_control"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
         </LinearLayout>
 
     <ImageView
