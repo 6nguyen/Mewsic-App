@@ -23,7 +23,11 @@ public class MainActivity extends AppCompatActivity {
         play_Icon.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                mp.start();
+                if (mp.isPlaying()) {
+                    mp.pause();
+                } else {
+                    mp.start();
+                }
             }
         });
 
